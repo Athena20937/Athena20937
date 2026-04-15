@@ -11,7 +11,7 @@ I'm currently learning AI at FPT University HCM City.<br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Athena20937&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Athena20937&theme=rose&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Athena20937&theme=rose&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Athena20937&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
